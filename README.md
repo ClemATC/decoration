@@ -1,3 +1,3 @@
 # decoration
 
-* (Blog déco)[https://clemaroundthecorner.com]
+* [Blog déco](https://clemaroundthecorner.com)
